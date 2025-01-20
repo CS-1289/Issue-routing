@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Issue Submission</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Customer Issue Submission</h1>
+    <form action="/submit_issue" method="POST">
+        <textarea name="description" rows="5" placeholder="Describe the issue..."></textarea><br>
+        <button type="submit">Submit Issue</button>
+    </form>
+</body>
+</html>
