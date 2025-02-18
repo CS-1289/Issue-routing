@@ -19,5 +19,4 @@ The DQN model predicts the best employee based on past experiences.
 
 ![Screenshot 2025-02-18 160102](https://github.com/user-attachments/assets/a63f8aa9-2e6a-416f-ba75-eda6157cdfc2)
 
-![Customer Complaint Tracker](https://github.com/user-attachments/assets/299fc0f2-e6b8-43f1-9cf4-8f2fff1431f6)
-
+![Image](https://github.com/user-attachments/assets/dc6d0c4a-e0f3-4dc7-b72d-ae4ca1bf1284)
